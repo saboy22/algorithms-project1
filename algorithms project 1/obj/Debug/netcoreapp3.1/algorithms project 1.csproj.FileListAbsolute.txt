@@ -1,0 +1,11 @@
+C:\Users\Samuel\Documents\visual studios projects\algorithms project 1\algorithms project 1\bin\Debug\netcoreapp3.1\algorithms project 1.exe
+C:\Users\Samuel\Documents\visual studios projects\algorithms project 1\algorithms project 1\bin\Debug\netcoreapp3.1\algorithms project 1.deps.json
+C:\Users\Samuel\Documents\visual studios projects\algorithms project 1\algorithms project 1\bin\Debug\netcoreapp3.1\algorithms project 1.runtimeconfig.json
+C:\Users\Samuel\Documents\visual studios projects\algorithms project 1\algorithms project 1\bin\Debug\netcoreapp3.1\algorithms project 1.runtimeconfig.dev.json
+C:\Users\Samuel\Documents\visual studios projects\algorithms project 1\algorithms project 1\bin\Debug\netcoreapp3.1\algorithms project 1.dll
+C:\Users\Samuel\Documents\visual studios projects\algorithms project 1\algorithms project 1\bin\Debug\netcoreapp3.1\algorithms project 1.pdb
+C:\Users\Samuel\Documents\visual studios projects\algorithms project 1\algorithms project 1\obj\Debug\netcoreapp3.1\algorithms project 1.csprojAssemblyReference.cache
+C:\Users\Samuel\Documents\visual studios projects\algorithms project 1\algorithms project 1\obj\Debug\netcoreapp3.1\algorithms project 1.AssemblyInfoInputs.cache
+C:\Users\Samuel\Documents\visual studios projects\algorithms project 1\algorithms project 1\obj\Debug\netcoreapp3.1\algorithms project 1.AssemblyInfo.cs
+C:\Users\Samuel\Documents\visual studios projects\algorithms project 1\algorithms project 1\obj\Debug\netcoreapp3.1\algorithms project 1.dll
+C:\Users\Samuel\Documents\visual studios projects\algorithms project 1\algorithms project 1\obj\Debug\netcoreapp3.1\algorithms project 1.pdb
